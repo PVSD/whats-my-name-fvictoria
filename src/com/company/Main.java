@@ -9,7 +9,7 @@ public class Main {
 	    String s = kbReader.nextLine();
 		System.out.println("What is your last name?");
 	    String z = kbReader.nextLine();
-	    System.out.println("Your full name is " +s +" " +z.);
+	    System.out.println("Your full name is " +s +" " +z+".");
 	    
 	    
 	    
